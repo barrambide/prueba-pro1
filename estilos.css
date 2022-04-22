@@ -1,0 +1,83 @@
+.divpadre{
+    display: flex;
+    align-items: center;
+    flex-direction: colufmn;
+}
+
+.div1{
+
+   justify-content: center;
+}
+.img{
+  
+   width: 150px;
+}
+
+.header{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+ height: 30vh;
+color: rgb(207, 79, 5);
+border-bottom: 2px solid rgb(85, 11, 85);
+
+}
+ .mybody {
+
+  background-color: black;
+
+
+
+
+  }
+  .titulo {
+      display: flex;
+      padding: 15px;
+      border: 20px;
+      margin: 15px;
+      background-color: rgb(85 , 11, 85);
+      color: rgb(207, 79, 5);
+      justify-content: space-around;
+      font-size: xx-large;
+      font-style: oblique;
+    
+  }
+  .subtitulo {
+   display: flex;
+   padding: 15px;
+   border: 10px;
+   margin: 10px;
+   background-color: rgb(85 , 11, 85);
+   justify-content: space-around;
+   color: rgb(207, 79, 5);
+   text-align: center;
+   font-size: xx-large;
+   font-style: oblique;
+  
+  }
+  .section1{
+    
+  
+    
+  }
+  .article1{
+   display: inline-flex;
+    flex-direction: column;
+    padding: 15px;
+    border: 15px solid ;
+    margin: 15px;
+    
+  
+    
+  
+  
+    
+    
+  
+       color: rgb(207, 79, 5);
+
+   }
+ .maria {
+   width: 120px;
+   height: 80px;
+ }
